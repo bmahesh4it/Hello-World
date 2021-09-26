@@ -1,0 +1,31 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "name": "Bank 1"
+    },
+    {
+      "id": 2,
+      "name": "Bank 2"
+    },
+    {
+      "id": 3,
+      "name": "Bank 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
